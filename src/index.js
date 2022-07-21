@@ -11,7 +11,7 @@ import ToggleColorModeProvider from './utils/ToggleColorMode';
 ReactDOM.render(
   <Provider store={store}>
     <ToggleColorModeProvider>
-      <BrowserRouter basename="/waflix">
+      <BrowserRouter basename="/">
         <App />
       </BrowserRouter>
     </ToggleColorModeProvider>

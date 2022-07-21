@@ -19,7 +19,7 @@ const Profile = () => {
 
   const logout = () => {
     localStorage.clear();
-    window.location.href = '/waflix';
+    window.location.href = '/';
   }
 
   // console.log("favorite", favoriteMovies);

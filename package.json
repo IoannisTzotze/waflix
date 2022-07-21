@@ -2,7 +2,7 @@
   "name": "waflix",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/waflix/",
+  "homepage": "./",
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.28",
     "@emotion/react": "^11.4.1",
@@ -16,6 +16,7 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.22.0",
     "gh-pages": "^4.0.0",
+    "netlify-cli": "^10.10.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.5",
