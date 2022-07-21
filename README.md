@@ -1,6 +1,6 @@
 # Waflix
 
-![Waflix](/src/assets/images/Readme.PNG)
+![Waflix](/src/assets/Readme.PNG)
 
 ## A React based website
 
